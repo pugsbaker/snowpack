@@ -1,0 +1,19 @@
+
+$color-text: rgba(65, 64, 66, 1);
+$color-main: rgba(138, 190, 220, 1);
+
+
+@mixin bp($point) {
+  @if $point == xlarge {
+    @media (min-width: 1600px) { @content; }
+  }
+  @else if $point == large {
+    @media (min-width: 45em) { @content; }
+  }
+  @else if $point == medium {
+    @media (min-width: 35em)  { @content; }
+  }
+  @else if $point == small {
+    @media (min-width: 20em)  { @content; }
+  }
+}

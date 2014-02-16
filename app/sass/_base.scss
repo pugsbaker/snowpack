@@ -1,0 +1,72 @@
+* {
+	box-sizing: border-box;
+}
+
+.hero {
+	background: $color-main url(../images/chairlift.jpg) no-repeat bottom;
+	background-size: cover;
+	text-align: center;
+	padding: 3em;
+	height:8em;
+	
+	@include bp(medium) {
+		height:10em;
+	}
+
+	@include bp(large) {
+		height:14em;
+	}
+
+
+	h1 {
+		color: #fff;
+		text-transform: uppercase;
+		font-weight: 300;
+		text-shadow: 1px 1px 1px  rgba(65, 64, 66, 0.3);;
+		
+	}
+}
+
+.stripe {
+	background: $color-main;
+}
+
+.l-row {
+	padding: 5% 3%;
+}
+
+.g {
+	max-width: 62em;
+	margin:0 auto;
+	@include clearfix;
+
+}
+
+
+
+.g-4up .gi {
+	background: #ddd;
+	padding: 3%;
+	
+	@include bp(medium) {
+		width: 33.33333%;
+		float: left;
+
+		&:nth-child(3n+1) {
+			clear: left;
+		}
+	}
+
+	@include bp(large) {
+		float: left;
+		width: 25%;
+
+		&:nth-child(4n+1) {
+			clear: left;
+		}
+		&:nth-child(3n+1) {
+			clear: none;
+		}
+
+	}
+}

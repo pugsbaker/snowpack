@@ -1,0 +1,49 @@
+.top-bar {
+	height: 3em;
+	
+	@include clearfix;
+	transition: all 0.2s ease;
+
+	z-index: 100;
+	@include bp(small) {
+		height: 4em;
+	}
+
+	@include bp(medium) {
+		height: 5em;
+	}
+	@include bp(large) {
+		height: 7em;
+	}
+
+.brand {
+	width: 8em;
+	float: left;
+	transition: all 0.2s ease;
+	@include bp(small) {
+		width: 10em;
+	}
+	@include bp(large) {
+		width: 18em;
+	}
+
+}
+	.nav {
+		float: right;
+		margin: 1 em;
+		@include bp(small) {
+		margin: 2em;
+		}
+		
+	}
+}
+
+.top-bar 
+.brand .logo {
+	//margin-top: -2em;
+
+	@include bp(small) {
+		//margin-top: -4.0em;
+	}
+}
+

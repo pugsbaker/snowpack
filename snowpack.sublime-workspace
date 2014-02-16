@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flo",
+				"float"
+			],
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title>snowpack</title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width\">\n        <script type=\"text/javascript\" src=\"http://typecast.com/project_css/ZXC72hjFpk/144773128542b1.js\"></script>\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n        <!-- build:css styles/vendor.css -->\n        <!-- bower:css -->\n        <!-- endbower -->\n        <!-- endbuild -->\n        <!-- build:css(.tmp) styles/main.css -->\n        <link rel=\"stylesheet\" href=\"styles/main.css\">\n        <!-- endbuild -->\n        <script src=\"bower_components/modernizr/modernizr.js\"></script>\n      \n    </head>\n    <body>\n        <!--[if lt IE 10]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n\n       <header role=\"banner\" class=\"top-bar\">\n            <div class=\"brand\"><a href=\"/\"><img src=\"/images/logo.svg\" alt=\"Snowpack Media Logo\" class=\"logo\"></a></div>\n            <nav class=\"nav\">\n              <ul>\n                   <li><a href=\"contact\">Contact</a></li>\n               </ul> \n            </nav>\n       </header>\n       <section role=\"main\">\n           <section class=\"hero l-row\">\n               <h1>Put you brand on the mountains!</h1>\n           </section>\n\n           <section class=\"l-row\">\n\n               <header>\n                   <h1>Snowpack Media</h1>\n               </header>\n                   <p>SnowPack Media is a unique marketing company that is able to offer exclusive advertising, sponsorship and direct marketing packages to companies keen to access the audience who make up the 1.65 Million visitor days to the Snowy Mountains of NSW.</p>\n<p>SnowPack Media is headed up by Adrien ‘Budgie’ Baker who has over 35 years experience in Advertising, Sponsorship and Marketing.</p>\n<p>Adrien <strong>knows</strong> the Snowy Mountains having spent almost 20 years in the region as a Radio Station Manager and in marketing roles in the NSW ski resorts of Perisher, Blue Cow, Guthega and Thredbo.</p>\n<p>He also spent 3 years as the Manager of the NSW Ski Areas Marketing Group, a joint marketing collaboration of all ski resorts in NSW aimed at growing visitation and skiing with.</p>\n              \n           </section>\n           <section class=\"l-row\">\n               <header>\n                   <h2>What we do</h2>\n                   <p>The NSW Snowy Mountains receive around 1.65 million visitor days every winter and SnowPack Media is able to offer exclusive advertising, sponsorship and direct marketing packages to companies keen to access this massive audience.</p>\n<p>Around 1.65 Million Visitor days to the NSW Snowy Mountains and now you can reach this audience through SnowPack Media packages.</p>\n<p>Advertising, sponsorships, signage, direct marketing and more all through the 1 company; SnowPack Media.</p>\n               </header>\n           </section>\n      <section class=\"l-row\">\n          <header>\n              <h2>\n                 Choose a ready made package or build your own that may include:\n              </h2>\n          </header>\n           <div>\n                      <div ><p><strong>Billboard signage</strong> at Snowy Mountains Airport</p></div>\n                      <div ><p><strong>Radio advertising</strong> on Snowy Mountains 2XL, 97.7 Snow FM, &amp; Hot Country Snowy Mountains</p></div>\n                      <div ><p><strong>On screen advertising</strong> at the Jindabyne &amp; Cooma Twin Cinemas</p></div>\n                      <div><p>Extensive advertising and <strong>sponsorship opportunities</strong> throughout Charlotte Pass Snow Resort</p></div>\n                      <div><p><strong>Direct marketing</strong> to guests of Charlotte Pass Snow Resort and the Kosciuszko Chalet Hotel</p></div>\n                      <div><p><strong>Signage</strong> and other opportunities with Snowy Mountains Airport Shuttle and Charlotte Pass Oversnow</p></div>\n                      <div><p><strong>Digital exposure</strong> through websites</p></div>\n            </div>\n            <div>\n                <p>At SnowPack Media we can combine whatever elements suit your business and marketing plan and you only ever need to deal with the 1 person.</p>\n<p>This allows maximum flexibility, maximum exposure and maximum timesaving.</p>\n            </div>\n      </section>\n\n\n       </section>\n      \n\n      <footer role=\"footer\"></footer>\n\n\n        <!-- build:js scripts/vendor.js -->\n        <!-- bower:js -->\n        <script src=\"bower_components/jquery/jquery.js\"></script>\n        <!-- endbower -->\n        <!-- endbuild -->\n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\n            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n            ga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n\n        <!-- build:js scripts/main.js -->\n        <script src=\"scripts/main.js\"></script>\n        <!-- endbuild -->\n</body>\n</html>\n",
+			"file": "app/index.html",
+			"file_size": 5773,
+			"file_write_time": 130369097220000000,
+			"settings":
+			{
+				"buffer_size": 5774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sass/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sass/_header.scss",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sass/_vars.scss",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pugsbaker/Downloads/grunticon/icons.fallback.css",
+		"/Users/pugsbaker/Downloads/grunticon/icons.data.svg.css",
+		"/Users/pugsbaker/Downloads/grunticon/icons.data.png.css",
+		"/Users/pugsbaker/DEV/snowpack/Gruntfile.js",
+		"/Users/pugsbaker/Downloads/style-elements-template/css/style.css",
+		"/Users/pugsbaker/DEV/snowpack/app/styles/sass/_typography.scss",
+		"/Users/pugsbaker/DEV/snowpack/app/styles/sass/main.scss",
+		"/Users/pugsbaker/DEV/snowpack/app/index.html",
+		"/Users/pugsbaker/DEV/snowpack/.tmp/styles/main.css",
+		"/Users/pugsbaker/DEV/snowpack/app/styles/main.css",
+		"/Users/pugsbaker/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								1947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/sass/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1358,
+								1358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/sass/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/sass/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "snowpack.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
