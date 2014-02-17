@@ -1,20 +1,27 @@
 * {
 	box-sizing: border-box;
+
 }
+img {
+	max-width:100%;
+	height: auto;
+}
+
+html, body {-webkit-text-size-adjust: 100%;}
 
 .hero {
 	background: $color-main url(../images/chairlift.jpg) no-repeat bottom;
 	background-size: cover;
-	text-align: center;
+	//text-align: center;
 	padding: 3em;
 	height:8em;
 	
 	@include bp(medium) {
-		height:10em;
+		height:13em;
 	}
 
 	@include bp(large) {
-		height:14em;
+		height:18em;
 	}
 
 
@@ -30,42 +37,82 @@
 .stripe {
 	background: $color-main;
 }
+.stripe-2 {
+	background: $color-text;
+	color: #fff;
+}
+
+.round {
+	border-radius: 50%;
+}
 
 .l-row {
 	padding: 5% 3%;
 }
 
 .g {
-	max-width: 62em;
+	max-width: 60em;
 	margin:0 auto;
 	@include clearfix;
 
 }
 
+.g-2up, .g-2up-fixed 
+{
+	> .gi {
+	padding: 3%;
+	@include bp(large) {
+		float: left;
+		width: 50%;
+
+		&:nth-child(2n+1) {
+			clear: left;
+		}
+		
+
+	}
+
+	&:first-child {
+		padding-left: 0;
+	}
+}
+
+}
+.g-2up-fixed > .gi {
+	float: left;
+		width: 50%;
+
+		&:nth-child(2n+1) {
+			clear: left;
+		}
+}
 
 
-.g-4up .gi {
-	background: #ddd;
+.g-3up > .gi {
+	
 	padding: 3%;
 	
 	@include bp(medium) {
-		width: 33.33333%;
+		width: 50%;
 		float: left;
-
-		&:nth-child(3n+1) {
+		
+		
+		&:nth-child(2n+1) {
 			clear: left;
+			
 		}
 	}
 
 	@include bp(large) {
 		float: left;
-		width: 25%;
+		width: 33.33333%;
 
-		&:nth-child(4n+1) {
+		&:nth-child(3n+1) {
 			clear: left;
 		}
-		&:nth-child(3n+1) {
+		&:nth-child(2n+1) {
 			clear: none;
+			
 		}
 
 	}
